@@ -1,7 +1,7 @@
 require 'rubygems'
 
 
-module ActiveModel; module Observing; end; end
+#module ActiveModel; module Observing; end; end
 require 'spork'
 #uncomment the following line to use spork with the debugger
 #require 'spork/ext/ruby-debug'
